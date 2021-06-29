@@ -1,4 +1,13 @@
-pillow
-pytesseract
-imutils
-scikit-image
+cycler
+joblib
+kiwisolver
+matplotlib
+numpy
+opencv-python
+pyparsing
+python-dateutil
+scikit-learn
+scipy
+six
+sklearn
+wincertstore
